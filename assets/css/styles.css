@@ -1,0 +1,12 @@
+.embed-responsive.embed-responsive-16by9.release1 {
+  margin: 0.25em;
+  margin-right: 0.125em;
+  width: calc(50% - 0.375em);
+}
+
+.embed-responsive.embed-responsive-16by9.release2 {
+  margin: 0.25em;
+  margin-left: 0.125em;
+  width: calc(50% - 0.375em);
+}
+
